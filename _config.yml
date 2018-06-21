@@ -10,33 +10,33 @@ theme_settings:
 
   # Header and footer text
   header_text: >
-     <h1>Witty & Hilarious Rails Developer</h1>
-     <p>I'm a kickass developer specializing in Rails, AngularJS, and MongoDB.</p>
+     <h1>Witty & Hilarious Web Developer</h1>
+     <p>I'm a kickass developer specializing in Rails, AngularJS, and Javascript.</p>
   header_text_feature_image:
   footer_text: >
    Powered by <a href="http://jekyllrb.com">Jekyll</a> and made with love.
 
   # Icons
   rss: false
-  email_address: # Full email address, e.g. "sam@example.com"
+  email_address: seanpaulbode@gmail.com
   behance:
   bitbucket:
   dribbble:
   facebook:
-  flickr:
-  github: # github profile name, e.g. "madebymunsters"
+  flickr: https://www.flickr.com/photos/131302611@N07/
+  github: https://github.com/seanbode
   google_plus:
-  instagram:
-  linkedin:  # Full URL
-  pinterest:
-  reddit:
-  soundcloud:
-  stack_exchange:  # Full URL
-  steam:
-  tumblr:
-  twitter:
-  wordpress:
-  youtube:
+  instagram: https://www.instagram.com/skippybench/?hl=en
+  linkedin:  https://www.linkedin.com/in/seanpaulbode/
+  pinterest: https://www.pinterest.com/seanbode/
+  reddit: 
+  soundcloud: https://soundcloud.com/sean-bode
+  stack_exchange:  https://stackexchange.com/users/7870411/sean
+  steam: 
+  tumblr: 
+  twitter: https://twitter.com/seanbode
+  wordpress: 
+  youtube: https://www.youtube.com/channel/UCxqJ_GP33uDYXd4vNfSi2gA?view_as=subscriber
 
   # Scripts
   google_analytics: # Tracking ID, e.g. "UA-000000-01"
