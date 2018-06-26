@@ -39,7 +39,7 @@ theme_settings:
   youtube: https://www.youtube.com/channel/UCxqJ_GP33uDYXd4vNfSi2gA?view_as=subscriber
 
   # Scripts
-  google_analytics: # Tracking ID, e.g. "UA-000000-01"
+  google_analytics: "UA-121459841-1"
   disqus_shortname:
   katex: true # Enable if using math markup
 
